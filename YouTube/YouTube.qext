@@ -1,0 +1,9 @@
+{
+	"name" : "YouTube",
+	"description" : "YouTube Video Player",
+	"icon" : "extensions",
+	"preview": "youtube.png",
+	"type" : "visualization",
+	"version": "1.0",
+	"author": "Joe Warbington"
+}
